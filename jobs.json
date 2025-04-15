@@ -1,0 +1,114 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Teamleider BSO Hamerkwartier",
+      "company": "Unikidz",
+      "location": "Amsterdam",
+      "description": "Als Teamleider BSO ben je verantwoordelijk voor het aansturen van een team pedagogisch medewerkers en het waarborgen van de pedagogische kwaliteit op de groep.",
+      "url": "https://werkenbijunikidz.nl/vacatures/teamleider-bso-hamerkwartier/",
+      "date_posted": "2025-03-15",
+      "categories": ["Management", "Onderwijs", "Kinderopvang"],
+      "source_website": "Unikidz"
+    },
+    {
+      "id": 2,
+      "title": "Pedagogisch Medewerker BSO Hamerkwartier",
+      "company": "Unikidz",
+      "location": "Amsterdam",
+      "description": "Als Pedagogisch Medewerker BSO ben je verantwoordelijk voor de dagelijkse begeleiding van kinderen in de buitenschoolse opvang.",
+      "url": "https://werkenbijunikidz.nl/vacatures/pedagogisch-medewerker-bso-hamerkwartier/",
+      "date_posted": "2025-03-20",
+      "categories": ["Onderwijs", "Kinderopvang"],
+      "source_website": "Unikidz"
+    },
+    {
+      "id": 3,
+      "title": "Boominspecteur",
+      "company": "Investree",
+      "location": "Utrecht",
+      "description": "Als Boominspecteur ben je verantwoordelijk voor het inspecteren van bomen en het adviseren over onderhoud en veiligheid.",
+      "url": "https://werkenbij.investree.nl/vacatures/boominspecteur",
+      "date_posted": "2025-04-01",
+      "categories": ["Milieu", "Buitendienst"],
+      "source_website": "Investree"
+    },
+    {
+      "id": 4,
+      "title": "Senior Boomadviseur",
+      "company": "Investree",
+      "location": "Utrecht",
+      "description": "Als Senior Boomadviseur ben je verantwoordelijk voor het adviseren van klanten over boomverzorging en -beheer.",
+      "url": "https://werkenbij.investree.nl/vacatures/senior-boomadviseur",
+      "date_posted": "2025-03-25",
+      "categories": ["Milieu", "Advies", "Management"],
+      "source_website": "Investree"
+    },
+    {
+      "id": 5,
+      "title": "Content Specialist",
+      "company": "Tover",
+      "location": "Haarlem",
+      "description": "Als Content Specialist ben je verantwoordelijk voor het ontwikkelen en beheren van content voor onze digitale platforms.",
+      "url": "https://www.tover.care/nl/vacatures/content-specialist",
+      "date_posted": "2025-04-10",
+      "categories": ["Marketing", "Communicatie"],
+      "source_website": "Tover"
+    },
+    {
+      "id": 6,
+      "title": "Accountmanager Noordoost Nederland",
+      "company": "Jopen Bier",
+      "location": "Haarlem",
+      "description": "Als Accountmanager ben je verantwoordelijk voor het onderhouden en uitbreiden van ons klantennetwerk in Noordoost Nederland.",
+      "url": "https://www.jopenbier.nl/vacancy/accountmanager-noordoost-nederland/",
+      "date_posted": "2025-04-05",
+      "categories": ["Sales", "Horeca"],
+      "source_website": "Jopen Bier"
+    },
+    {
+      "id": 7,
+      "title": "HR-stagiair",
+      "company": "Jopen Bier",
+      "location": "Haarlem",
+      "description": "Als HR-stagiair ondersteun je het HR-team bij diverse werkzaamheden en krijg je de kans om mee te werken aan verschillende HR-projecten.",
+      "url": "https://www.jopenbier.nl/?post_type=vacancy&p=80712&preview=true",
+      "date_posted": "2025-04-12",
+      "categories": ["HR", "Stage"],
+      "source_website": "Jopen Bier"
+    },
+    {
+      "id": 8,
+      "title": "Financieel Medewerker",
+      "company": "BPI Services",
+      "location": "Amsterdam",
+      "description": "Als Financieel Medewerker ben je verantwoordelijk voor de inkoop en volledige financiële administratie.",
+      "url": "https://www.bpiservices.eu/vacature/financieel-medewerker-verantwoordelijk-voor-inkoop-en-volledige-financiele-administratie/",
+      "date_posted": "2025-03-28",
+      "categories": ["Finance", "Administratie"],
+      "source_website": "BPI Services"
+    },
+    {
+      "id": 9,
+      "title": "Full Stack .NET Software Engineer",
+      "company": "BPI Services",
+      "location": "Amsterdam",
+      "description": "Als Full Stack .NET Software Engineer ben je verantwoordelijk voor het ontwikkelen en onderhouden van onze softwareoplossingen.",
+      "url": "https://www.bpiservices.eu/vacature/full-stack-net-software-engineer/",
+      "date_posted": "2025-04-15",
+      "categories": ["IT", "Development"],
+      "source_website": "BPI Services"
+    },
+    {
+      "id": 10,
+      "title": "Toilet Dame/heer",
+      "company": "Jopen Bier",
+      "location": "Haarlem",
+      "description": "Als Toilet Dame/heer ben je verantwoordelijk voor het schoonhouden en beheren van de toiletfaciliteiten in onze horecagelegenheid.",
+      "url": "https://www.jopenbier.nl/vacancy/toilet-dame-heer/",
+      "date_posted": "2025-04-08",
+      "categories": ["Horeca", "Facilitair"],
+      "source_website": "Jopen Bier"
+    }
+  ]
+}

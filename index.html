@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Company Job Board</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="images/logo.png" alt="Portfolio Job Board">
+            </div>
+            <h1>Portfolio Company Job Board</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="search-section">
+            <h2>Find Your Perfect Job</h2>
+            <div class="search-container">
+                <div class="search-row">
+                    <div class="search-field">
+                        <label for="keyword">Keyword</label>
+                        <input type="text" id="keyword" placeholder="Job title, skills, or keywords">
+                    </div>
+                    <div class="search-field">
+                        <label for="location">Location</label>
+                        <input type="text" id="location" placeholder="City or region">
+                    </div>
+                </div>
+                <div class="search-row">
+                    <div class="search-field">
+                        <label for="company">Company</label>
+                        <select id="company">
+                            <option value="">All Companies</option>
+                            <option value="Unikidz">Unikidz</option>
+                            <option value="Investree">Investree</option>
+                            <option value="Tover">Tover</option>
+                            <option value="Jopen Bier">Jopen Bier</option>
+                            <option value="BPI Services">BPI Services</option>
+                        </select>
+                    </div>
+                    <div class="search-field">
+                        <label for="category">Category</label>
+                        <select id="category">
+                            <option value="">All Categories</option>
+                            <!-- Categories will be populated from data -->
+                        </select>
+                    </div>
+                    <div class="search-field">
+                        <label for="date-posted">Date Posted</label>
+                        <select id="date-posted">
+                            <option value="">Any Time</option>
+                            <option value="1">Last 24 hours</option>
+                            <option value="7">Last 7 days</option>
+                            <option value="30">Last 30 days</option>
+                        </select>
+                    </div>
+                </div>
+                <button id="search-button" class="search-button">Search Jobs</button>
+            </div>
+        </section>
+
+        <section class="stats-section">
+            <div class="stats-container">
+                <div class="stat-item">
+                    <span id="total-jobs" class="stat-number">0</span>
+                    <span class="stat-label">Total Jobs</span>
+                </div>
+                <div class="stat-item">
+                    <span id="total-companies" class="stat-number">5</span>
+                    <span class="stat-label">Companies</span>
+                </div>
+                <div class="stat-item">
+                    <span id="new-today" class="stat-number">0</span>
+                    <span class="stat-label">New Today</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="jobs-section">
+            <h2>Available Positions</h2>
+            <div id="jobs-container" class="jobs-container">
+                <!-- Jobs will be populated here -->
+                <div class="loading">Loading jobs...</div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Portfolio Company Job Board. All rights reserved.</p>
+            <p>Last updated: <span id="last-updated">April 15, 2025</span></p>
+        </div>
+    </footer>
+
+    <script src="js/jobs.js"></script>
+</body>
+</html>
